@@ -28,6 +28,4 @@
   <a href="https://www.notion.so/Welcome-d6ce424532354ad7ab451f37fc053623" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
   <a href="https://github.com/claydisonnascimento" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/claydisonnascimento/claydisonnascimento/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
