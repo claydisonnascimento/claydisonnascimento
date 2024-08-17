@@ -9,10 +9,12 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Clay-Ruby" height="50" width="50" src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" alt="Clay-Ruby" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="Clay-Rails" height="50" width="50" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt=Clay-Git" height="50" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Clay-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Clay-Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt=Clay-VS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt=Clay-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+  
 </div>
 <img align="right" alt="Clay-pic" height="140" style="border-radius:40px;" src="https://i.picasion.com/pic92/2fb7d2bc1913f2ff7e848902e9b4601d.gif">
 
