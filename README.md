@@ -11,9 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt=Clay-Aws" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Clay-Sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-  <img align="center" alt="Clay-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Clay-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Clay-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Clay-Rails" height="40" width="40" src="https://cdn.jsdelivr.net/npm/@rails/ujs@7.1.3-4/app/assets/javascripts/rails-ujs.min.js">
+  <img align="center" alt="Clay-Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/npm/@ruby/3.3-wasm-wasi@2.6.2/+esm">
 </div>
 <img align="right" alt="Clay-pic" height="140" style="border-radius:40px;" src="https://i.picasion.com/pic92/2fb7d2bc1913f2ff7e848902e9b4601d.gif">
 
